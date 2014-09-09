@@ -6,7 +6,7 @@ package C01P07;
 public class Main {
 
     public static void main(String[] args) {
-	    double trailer = 0;
+	double trailer = 0;
         int counter = 0;
 
         for (int index = 1; index <= 1000000000; index += 2) {
